@@ -3,7 +3,7 @@
 # 介绍
 先看一下效果吧，从视频上看刷新的感觉很明显，实际中看起来会好一些，不过大致的意思到了就行了，毕竟也没做什么优化。
 
-![](http://chuquan-public-r-001.oss-cn-shanghai.aliyuncs.com/github-images/dynamic-art-clock001.gif)
+[效果展示](http://chuquan-public-r-001.oss-cn-shanghai.aliyuncs.com/github-images/dynamic-art-clock001.gif)
 
 这个时钟的特殊之处在于，其数字的切换具有一个动态的演化过程。下面两张图分别示意了从3到4的演变、从8到9的演变过程。
 
